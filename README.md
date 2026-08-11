@@ -12,6 +12,7 @@ Scientific calculator in java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/0010-regular-expression-matching) |
 | [1510-stone-game-iv](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
@@ -60,4 +61,9 @@ Scientific calculator in java
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
