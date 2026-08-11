@@ -37,10 +37,12 @@ Scientific calculator in java
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/0268-missing-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/0268-missing-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +55,5 @@ Scientific calculator in java
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/0268-missing-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alekhgautam1/Scientific-Calculator/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
